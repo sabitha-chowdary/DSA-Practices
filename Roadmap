@@ -16,7 +16,7 @@ The Complete DSA Pattern Sheet — Every Pattern You Need to Know
 This is the complete pattern-based problem sheet — organized by topic and sub-pattern. Study one pattern at a time.
 
 🟢 Easy 🟡 Medium 🔴 Hard
-
+-------------------------------------------------------------------
 TOPIC 1 — BASICS
 Pattern: Conditionals (if-else)
 
@@ -37,6 +37,7 @@ Pattern: Maths
 Reverse Integer 🟡 — https://leetcode.com/problems/reverse-integer
 Plus One 🟢 — https://leetcode.com/problems/plus-one
 Add Digits 🟢 — https://leetcode.com/problems/add-digits
+---------------------------------------------------------------------
 TOPIC 2 — ARRAYS
 Pattern: Fundamentals
 
@@ -75,6 +76,8 @@ Spiral Matrix 🟡 — https://leetcode.com/problems/spiral-matrix
 Spiral Matrix II 🟡 — https://leetcode.com/problems/spiral-matrix-ii
 Rotate Image 🟡 — https://leetcode.com/problems/rotate-image
 Set Matrix Zeroes 🟡 — https://leetcode.com/problems/set-matrix-zeroes
+------------------------------------------------------------------
+
 TOPIC 3 — STRINGS
 Pattern: Fundamentals
 
@@ -102,6 +105,8 @@ Pattern: Prefix/Suffix & Pattern Matching
 Longest Common Prefix 🟢 — https://leetcode.com/problems/longest-common-prefix
 Find and Replace Pattern 🟡 — https://leetcode.com/problems/find-and-replace-pattern
 Remove Duplicate Letters 🟡 — https://leetcode.com/problems/remove-duplicate-letters
+-----------------------------------------------------------
+
 TOPIC 4 — RECURSION & BACKTRACKING
 Pattern: Fundamentals
 
@@ -127,6 +132,8 @@ Combination Sum III 🟡 — https://leetcode.com/problems/combination-sum-iii
 N-Queens 🔴 — https://leetcode.com/problems/n-queens
 N-Queens II 🔴 — https://leetcode.com/problems/n-queens-ii
 Sudoku Solver 🔴 — https://leetcode.com/problems/sudoku-solver
+--------------------------------------------------------------------
+
 TOPIC 5 — TWO POINTERS
 Pattern: Opposite Ends (Left <-> Right)
 
@@ -142,6 +149,8 @@ Pattern: Fixed + Two Pointers
 3Sum 🟡 — https://leetcode.com/problems/3sum
 3Sum Closest 🟡 — https://leetcode.com/problems/3sum-closest
 4Sum 🟡 — https://leetcode.com/problems/4sum
+-------------------------------------------------------------
+
 TOPIC 6 — SLIDING WINDOW
 Pattern: Fixed Size Window
 
@@ -164,6 +173,8 @@ Longest Substring Without Repeating Characters 🟡 — https://leetcode.com/pro
 Longest Repeating Character Replacement 🟡 — https://leetcode.com/problems/longest-repeating-character-replacement
 Find All Anagrams in a String 🟡 — https://leetcode.com/problems/find-all-anagrams-in-a-string
 Minimum Window Substring 🔴 — https://leetcode.com/problems/minimum-window-substring
+---------------------------------------------------------------
+
 TOPIC 7 — STACK & QUEUES
 Pattern: Implementation
 
@@ -191,6 +202,8 @@ Daily Temperatures 🟡 — https://leetcode.com/problems/daily-temperatures
 Sum of Subarray Minimums 🟡 — https://leetcode.com/problems/sum-of-subarray-minimums
 Sum of Subarray Ranges 🟡 — https://leetcode.com/problems/sum-of-subarray-ranges
 Asteroid Collision 🟡 — https://leetcode.com/problems/asteroid-collision
+-------------------------------------------------------------
+
 TOPIC 8 — LINKED LIST
 Pattern: Fast & Slow Pointers
 
@@ -213,6 +226,8 @@ Merge Two Sorted Lists 🟢 — https://leetcode.com/problems/merge-two-sorted-l
 Merge k Sorted Lists 🔴 — https://leetcode.com/problems/merge-k-sorted-lists
 Intersection of Two Linked Lists 🟢 — https://leetcode.com/problems/intersection-of-two-linked-lists
 Add Two Numbers 🟡 — https://leetcode.com/problems/add-two-numbers
+------------------------------------------------------------
+
 TOPIC 9 — TREES
 Pattern: Traversal (BFS / DFS)
 
@@ -249,6 +264,8 @@ Convert Sorted Array to Binary Search Tree 🟢 — https://leetcode.com/problem
 Minimum Absolute Difference in BST 🟢 — https://leetcode.com/problems/minimum-absolute-difference-in-bst
 Kth Smallest Element in a BST 🟡 — https://leetcode.com/problems/kth-smallest-element-in-a-bst
 Lowest Common Ancestor of a Binary Search Tree 🟡 — https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+----------------------------------------------------------
+
 TOPIC 10 — BINARY SEARCH
 Pattern: Classic Binary Search on Sorted Arrays
 
@@ -273,6 +290,8 @@ Pattern: Binary Search on Matrix
 Search a 2D Matrix 🟡 — https://leetcode.com/problems/search-a-2d-matrix
 Search a 2D Matrix II 🟡 — https://leetcode.com/problems/search-a-2d-matrix-ii
 Kth Smallest Element in a Sorted Matrix 🟡 — https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+-------------------------------------------------------------
+
 TOPIC 11 — HEAP (PRIORITY QUEUE)
 Pattern: Top K
 
@@ -293,6 +312,8 @@ Pattern: Finding Minimums
 Minimum Cost to Hire K Workers 🔴 — https://leetcode.com/problems/minimum-cost-to-hire-k-workers
 Minimum Number of Refueling Stops 🔴 — https://leetcode.com/problems/minimum-number-of-refueling-stops
 Task Scheduler 🟡 — https://leetcode.com/problems/task-scheduler
+----------------------------------------------------------
+
 TOPIC 12 — GREEDY
 Pattern: Local Optimal Selection
 
@@ -315,6 +336,8 @@ Queue Reconstruction by Height 🟡 — https://leetcode.com/problems/queue-reco
 Boats to Save People 🟡 — https://leetcode.com/problems/boats-to-save-people
 Two City Scheduling 🟡 — https://leetcode.com/problems/two-city-scheduling
 Car Pooling 🟡 — https://leetcode.com/problems/car-pooling
+-------------------------------------------------------------------
+
 TOPIC 13 — DYNAMIC PROGRAMMING
 Pattern: 1D DP
 
@@ -389,6 +412,8 @@ Pattern: Bitmask DP
 Can I Win 🟡 — https://leetcode.com/problems/can-i-win
 Partition to K Equal Sum Subsets 🟡 — https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 Shortest Path Visiting All Nodes 🔴 — https://leetcode.com/problems/shortest-path-visiting-all-nodes
+------------------------------------------------------------
+
 TOPIC 14 — GRAPH
 Pattern: Graph Traversal
 
@@ -439,6 +464,8 @@ Pattern: Grid as Graph
 Number of Closed Islands 🟡 — https://leetcode.com/problems/number-of-closed-islands
 Number of Enclaves 🟡 — https://leetcode.com/problems/number-of-enclaves
 Swim in Rising Water 🔴 — https://leetcode.com/problems/swim-in-rising-water
+-----------------------------------------------------------------
+
 TOPIC 15 — TRIES
 Pattern: Implementation
 
